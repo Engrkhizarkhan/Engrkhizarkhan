@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Khizar Khan 👋</h1>
 <p align="center">
-  <b>Front-End Developer</b> | <b>JavaScript Enthusiast</b> | <b>Real-Time Web Explorer</b><br/>
+  <b>Full-Stack Developer</b> | <b>JavaScript Enthusiast</b> | <b>Real-Time Web Explorer</b><br/>
   ⚡ I build fast UIs, real-time dashboards, and love solving complex code logic
 </p>
 
