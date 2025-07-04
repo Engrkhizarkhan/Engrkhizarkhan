@@ -58,7 +58,7 @@
 ### 🐍 Snake Eating Contributions
 
 <p align="center">
-  <img src="https://github.com/Engrkhizarkhan/Engrkhizarkhan/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Engrkhizarkhan/Engrkhizarkhan/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
