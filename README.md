@@ -1,12 +1,11 @@
-<h1 align="center">Hi, I'm Khizar Khan 👋</h1>
+<!-- Hero Banner -->
 <p align="center">
-  <b>Full-Stack Developer</b> | <b>JavaScript Enthusiast</b> | <b>Real-Time Web Explorer</b><br/>
-  ⚡ I build fast UIs, real-time dashboards, and love solving complex code logic
+  <img src="https://readme-hero.vercel.app/api/hero?username=Engrkhizarkhan&owner=Engrkhizarkhan&repo=Engrkhizarkhan&theme=tokyonight&title=Hi%20I'm%20Khizar%20Khan&desc=Front-End%20Developer%20%7C%20JavaScript%20Warrior%20%7C%20Dashboard%20Ninja" />
 </p>
 
 ---
 
-### 🚀 Tech Stack & Tools
+<h2 align="center">⚙️ Tech Stack & Tools</h2>
 
 <p align="center">
   <!-- Frontend -->
@@ -38,7 +37,7 @@
 
 ---
 
-### 📊 GitHub Stats
+<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Engrkhizarkhan&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
@@ -47,7 +46,7 @@
 
 ---
 
-### ⏳ Contribution Graph
+<h2 align="center">📈 Contribution Graph</h2>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Engrkhizarkhan&theme=react-dark&hide_border=true&area=true" />
@@ -55,7 +54,7 @@
 
 ---
 
-### 🐍 Snake Eating Contributions
+<h2 align="center">🐍 Snake Eating My Contributions</h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Engrkhizarkhan/Engrkhizarkhan/output/github-contribution-grid-snake.svg" />
@@ -63,7 +62,7 @@
 
 ---
 
-### 📫 Connect With Me
+<h2 align="center">📫 Contact Me</h2>
 
 <p align="center">
   <a href="mailto:Engrkhizarkhan1@gmail.com">
@@ -76,6 +75,14 @@
 
 ---
 
+<h2 align="center">🔁 Visitors</h2>
+
 <p align="center">
-  🚀 Built with passion, dark mode, and terminal vibes.  
+  <img src="https://komarev.com/ghpvc/?username=Engrkhizarkhan&label=Profile+Views&color=0e75b6&style=flat-square" />
+</p>
+
+---
+
+<p align="center">
+  🧠 Fun Fact: I love building real-time dashboards, coding complex logic, and turning UI into magic ✨
 </p>
