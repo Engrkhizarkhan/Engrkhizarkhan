@@ -1,3 +1,14 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+I'm+Khizar+Khan;Full+Stack+Web+Developer;JavaScript+%26+UI%2FUX+Enthusiast;Real-Time+App+Lover&center=true&size=24&color=00F9FF">
+</h1>
+
+<p align="center">
+  <b>Full Stack Web Developer</b> | <b>JavaScript Specialist</b> | <b>Real-Time App Explorer</b><br/>
+  ⚡ I build modern UIs, powerful dashboards, and love solving complex backend logic.
+</p>
+
+---
+
 ### 🚀 Tech Stack & Tools
 
 <p align="center">
@@ -27,4 +38,48 @@
   <img src="https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white" />
   <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=flat&logo=digitalocean&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Engrkhizarkhan&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Engrkhizarkhan&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+---
+
+### ⏳ Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Engrkhizarkhan&theme=react-dark&hide_border=true&area=true" />
+</p>
+
+---
+
+### 🐍 Snake Eating Contributions
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Engrkhizarkhan/Engrkhizarkhan/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+### 📫 Connect With Me
+
+<p align="center">
+  <a href="mailto:Engrkhizarkhan1@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Engrkhizarkhan" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  🚀 Built with passion, full-stack vibes, and terminal coffee ☕  
 </p>
