@@ -1,16 +1,4 @@
-<!-- Typing Intro -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+I'm+Khizar+Khan;Front-End+Developer;Real-Time+App+Enthusiast;UI%2FUX+Lover;Let’s+Build+Something+Cool!&center=true&size=22&color=00ffff">
-</h1>
-
-<!-- Hero Banner -->
-<p align="center">
-  <img src="https://readme-hero.vercel.app/api/hero?username=Engrkhizarkhan&owner=Engrkhizarkhan&repo=Engrkhizarkhan&theme=tokyonight&title=Hi%20I'm%20Khizar%20Khan&desc=Front-End%20Developer%20%7C%20JavaScript%20Warrior%20%7C%20Dashboard%20Ninja" />
-</p>
-
----
-
-<h2 align="center">⚙️ Tech Stack & Tools</h2>
+### 🚀 Tech Stack & Tools
 
 <p align="center">
   <!-- Frontend -->
@@ -31,65 +19,12 @@
   <img src="https://img.shields.io/badge/REST%20API-00599C?style=flat&logo=api&logoColor=white" />
   <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socket.io&logoColor=white" />
 
-  <!-- Tools -->
+  <!-- Tools & Platforms -->
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white" />
   <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=flat&logo=digitalocean&logoColor=white" />
-</p>
-
----
-
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Engrkhizarkhan&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Engrkhizarkhan&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
----
-
-<h2 align="center">📈 Contribution Graph</h2>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Engrkhizarkhan&theme=react-dark&hide_border=true&area=true" />
-</p>
-
----
-
-<h2 align="center">🐍 Snake Eating My Contributions</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Engrkhizarkhan/Engrkhizarkhan/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-<h2 align="center">📫 Contact Me</h2>
-
-<p align="center">
-  <a href="mailto:Engrkhizarkhan1@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/Engrkhizarkhan" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
-<h2 align="center">🔁 Visitors</h2>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Engrkhizarkhan&label=Profile+Views&color=0e75b6&style=flat-square" />
-</p>
-
----
-
-<h2 align="center">💬 Quote of the Day</h2>
-
-<p align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad."</i> – Cory House
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white" />
 </p>
