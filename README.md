@@ -1,3 +1,8 @@
+<!-- Typing Intro -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+I'm+Khizar+Khan;Front-End+Developer;Real-Time+App+Enthusiast;UI%2FUX+Lover;Let’s+Build+Something+Cool!&center=true&size=22&color=00ffff">
+</h1>
+
 <!-- Hero Banner -->
 <p align="center">
   <img src="https://readme-hero.vercel.app/api/hero?username=Engrkhizarkhan&owner=Engrkhizarkhan&repo=Engrkhizarkhan&theme=tokyonight&title=Hi%20I'm%20Khizar%20Khan&desc=Front-End%20Developer%20%7C%20JavaScript%20Warrior%20%7C%20Dashboard%20Ninja" />
@@ -83,6 +88,8 @@
 
 ---
 
+<h2 align="center">💬 Quote of the Day</h2>
+
 <p align="center">
-  🧠 Fun Fact: I love building real-time dashboards, coding complex logic, and turning UI into magic ✨
+  <i>"Code is like humor. When you have to explain it, it’s bad."</i> – Cory House
 </p>
